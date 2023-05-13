@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_section{
+    background-image: url(assets/img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.nav{
+    list-style-type: none;
+}
+.nav_item{
+    margin: 10px 15px;
+}
+.nav_item_link{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+.navbar_tittle{
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+}
+.navbar_span{
+    color: white;
+    margin: 0px 5px;
+}
+.shoulder_desciription1{
+    font-weight: 800;
+    font-size: 58px;
+    color: rgb(255, 255, 255);
+}
+.shoulder_desciription2{
+    font-weight: 500;
+    font-size: 20px;
+    color: white;margin: 40px 0px;
+}
+.hh{
+    padding-top: 160px;
+    text-align: center;
+}
+.d_tugma{
+    font-size: 17px;
+    color: white;
+    background-color: orange;
+    font-weight: 700;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 36px;
+}
+.d_btn{
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 10px 36px;
+    font-size: 17px;
+
+}
+img{
+    width: 100%;
+}
+.section_2{
+    background-color:#252B42;
+}
+.section2_tittle{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 10px 0px;
+    text-align: center;
+}
+.section2_desciription{
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.forrow{
+    padding-bottom: 135px;
+}
+.section_3{
+    background-color: #252B42;
+}
+.section_3_tittle{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 10px;
+    width: 60%;
+    margin: 0 auto;
+
+}
+.section_3_desciription{
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding-bottom: 165px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.section4{
+    background-color: #16697A;
+    height: 47vh;
+}
+.biznes{
+    position: absolute;
+    bottom: 80px;
+}
+.section4_tittle{
+    color: #FFA62B;
+    font-weight: 600;
+    font-size: 14px;
+}
+.section4_desciription{
+    font-weight: 600;
+    font-size: 14px;
+    color:#252B42;
+}
+.section5{
+    background-color: #252B42;
+    padding: 80px 0px;
+}
+.section_5_tittle{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.section_5_desciription{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.team_section{
+    background-color: #252B42;
+    padding: 85px 0px;
+}
+.icons{
+    font-size: 25px;
+    color: #00A0C1;
+    margin: 5px 5px 30px 5px;
+}
+.team_tittle{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.team_desciription{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.form_section{
+    background-image: url(assets/img/background\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+.textarea{
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.form_link{
+    display: block;
+    text-decoration: none;
+    background-color: #FFA62B;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.form_desciription{
+    padding-top: 90px;
+    font-size: 16px;
+    color: white;
+}
+.form_tittle{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.contact_section{
+    padding: 40px 0px;
+}
+.kantakt_tittle{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.kantakt_desciription{
+    font-size: 14px;
+
+}
+.kantakt_link{
+    background-color: #FFA62B;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 15px 40px;
+}
+.end_section{
+    background-color: #252B42;
+    padding: 70px 0px;
+}
+.main{
+    list-style-type: none;
+}
+.main_item{
+    margin: 5px 0px;
+}
+.main_item_link{
+    display: block;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+.end_tittle{
+    color: white;
+    margin-left: 32px;
+}
+.end_span{
+    color: white;
+    margin: 5px 0px;
+}
+.end_tittle1{
+    color: white;
+    margin-left: 32px;
+}
+.for_hr{
+    width: 70%;
+    color: white;
+    margin: 27px 0px;
+}
+.footer_section{
+    background-color: #16697A;
+    padding: 25px 0px 20px 0;
+}
+.footer_desciription{
+    color: white;
+    font-size: 14px;
+}
+
